@@ -1,11 +1,11 @@
-// Yeo Kian Peen DCEP 
-// P1234567
+// 123
+// 456
 
 #include <iostream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Welcome to Github!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
