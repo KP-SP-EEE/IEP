@@ -1,11 +1,13 @@
-// 123
-// 456
+
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Welcome to Github!\n";
+    cout << "Hello";
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
